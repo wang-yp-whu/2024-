@@ -1,0 +1,8 @@
+break_queue:用于停车队列的实现
+find_light:寻找红绿灯位置
+line_slope:道路为一次函数，求其解析式
+rate：各个车辆数据占比，用于第二题
+route：绘制每辆车的轨迹图
+speed——change：速度的变化，以刹车为0时为基准，向两边寻找开始刹车的时间和开始启动的时间（1，2题使用）
+speed_change_2:用于第三题，使用了对时间聚类的speed_change方法
+vt:绘制速度时间曲线
